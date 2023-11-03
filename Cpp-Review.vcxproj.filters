@@ -18,5 +18,11 @@
     <ClCompile Include="HelloWorld.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StartClass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Overloading.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
